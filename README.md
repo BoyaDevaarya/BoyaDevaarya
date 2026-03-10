@@ -1,37 +1,26 @@
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,html,git,github,vscode" />
-</p>
-<h1 align="center">Hi 👋, I'm Devaarya</h1>
-<h3 align="center">Engineering Student | Beginner Programmer</h3>
+# Hi 👋 I'm Devaarya
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=C%20Programmer;Python%20Learner;Future%20Software%20Engineer&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Learner;C%20Learner&center=true&width=500&height=50">
 </p>
-# Hi there 👋 I'm Devaarya
 
 🎓 Engineering Student
-💻 Beginner Programmer | Learning C, Python & Web Development
+💻 Learning programming step by step
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 Engineering student passionate about creativity
-* 🌱 Currently learning **C, Python**
-* 💻 Interested in **Web Development & Anime**
-* 📚 Always trying to improve my coding skills
+* 🎓 Engineering student passionate about socializing
+* 🌱 Currently learning **C and Python**
+* 💻 Interested in **Animation**
 
 ---
 
 ## 🚀 Skills
 
-💻 Programming Languages
-
 * C
 * Python
-
-🛠 Tools
-
 * Git
 * GitHub
 * VS Code
@@ -42,8 +31,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact\&theme=tokyonight)
-
 ---
 
 ## 🔥 GitHub Streak
@@ -52,11 +39,11 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Most Used Languages
 
-* GitHub: https://github.com/BoyaDevaarya
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact\&theme=tokyonight)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
 
-⭐ *Thanks for visiting my profile!*
+⭐ Thanks for visiting my profile!
