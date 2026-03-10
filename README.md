@@ -17,6 +17,7 @@
 
 <hr style="height:3px; background-color:#333; border:none; width:50%; margin:auto;">
 
+<h1 align="center">Hi, I'm Boya Devaarya</h1>
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=C%20Learner;Python%20Learner&center=true&width=500&height=50">
