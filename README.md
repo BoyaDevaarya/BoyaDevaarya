@@ -7,7 +7,7 @@
 </p>
 
 <!-- Clean, bold name -->
-<h1 align="center">Hi I am Boya Devaarya</h1>
+<h1 align="center">Hi, I'm Boya Devaarya</h1>
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=C%20Learner;Python%20Learner&center=true&width=500&height=50">
