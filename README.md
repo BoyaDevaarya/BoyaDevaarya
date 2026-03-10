@@ -15,10 +15,6 @@
   <span style="font-size:120px; font-weight:bold;">Hi, I'm Boya Devaarya</span>
 </p>
 
-<p align="center">
-  <img src="YOUR_NAME_IMAGE.png" alt="Boya Devaarya" width="600">
-</p>
-
 <hr style="height:3px; background-color:#333; border:none; width:50%; margin:auto;">
 
 <!-- Typing animation -->
