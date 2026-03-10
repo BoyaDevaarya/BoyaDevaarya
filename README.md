@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://github.com/BoyaDevaarya/BoyaDevaarya/blob/main/VID_20260311_010801_1.gif?raw=true" width="400" alt="Luffy typing">
 </p>
-<h2>align="center">Hi, I'm Boya Devaarya</h2>
+<h2 align="center">Hi, I'm Boya Devaarya</h2>
 <hr style="height:3px; background-color:#333; border:none; width:50%; margin:auto;">
 <!-- Typing animation -->
 <p align="center">
