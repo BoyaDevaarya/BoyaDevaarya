@@ -1,4 +1,4 @@
-# Hi 👋 I'm Devaarya
+# Hi 👋 I'm  Boya Devaarya
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Learner;C%20Learner&center=true&width=500&height=50">
