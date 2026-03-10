@@ -2,18 +2,8 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600">
 </p>
 
-<h1 align="center">Hi 👋 I'm Devaarya</h1>
+<h1 align="center">Hi 👋 I'm Boya Devaarya</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Learner;C%20Learner&center=true&width=500&height=50">
-</p>
-
-
-# Hi 👋 I'm  Boya Devaarya
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Learner;C%20Learner&center=true&width=500&height=50">
-</p>
 
 🎓 Engineering Student
 💻 Learning programming step by step
