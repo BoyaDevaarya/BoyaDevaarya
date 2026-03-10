@@ -20,7 +20,7 @@
 </p>
 
 🎓 Engineering Student.    
-💻 Learning programming step by step.  
+💻 Learning Python and C programming  
 
 ---
 
