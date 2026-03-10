@@ -15,8 +15,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=C%20Learner;Python%20Learner&center=true&width=500&height=50">
 </p>
 
-🎓 Engineering Student
-💻 Learning programming step by step
+🎓 Engineering Student.    
+💻 Learning programming step by step.  
 
 ---
 
