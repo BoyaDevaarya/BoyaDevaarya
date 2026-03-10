@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55"/>
+</p>
 
 <p align="center">
   <img src="https://github.com/BoyaDevaarya/BoyaDevaarya/blob/main/VID_20260311_010801_1.gif?raw=true" width="400" alt="Luffy typing">
