@@ -10,8 +10,10 @@
   <img src="https://github.com/BoyaDevaarya/BoyaDevaarya/blob/main/VID_20260311_010801_1.gif?raw=true" width="400" alt="Luffy typing">
 </p>
 <p align="center">
-  <b style="font-size:1000px;">Hi, I'm Boya Devaarya</b>
+  <span style="font-size:60px; font-weight:bold;">Hi, I'm Boya Devaarya</span>
 </p>
+
+<hr style="height:3px; background-color:#333; border:none; width:50%; margin:auto;">>
 
 <hr style="height:3px; background-color:#333; border:none; width:50%; margin:auto;">
 <!-- Typing animation -->
