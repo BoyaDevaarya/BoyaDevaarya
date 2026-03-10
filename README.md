@@ -6,8 +6,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55"/>
 </p>
 
+<!-- Clean, bold name -->
+<h1 align="center">Hi I am Boya Devaarya</h1>
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4D0z7kqWb1Vb6/giphy.gif" width="600" alt="Luffy coding"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=C%20Learner;Python%20Learner&center=true&width=500&height=50">
 </p>
 
 🎓 Engineering Student
