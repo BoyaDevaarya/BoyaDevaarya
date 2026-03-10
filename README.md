@@ -13,6 +13,34 @@
   <span style="font-size:60px; font-weight:bold;">Hi, I'm Boya Devaarya</span>
 </p>
 
+
+
+<!-- Tech logos at the top -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55"/>
+</p>
+
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://github.com/BoyaDevaarya/BoyaDevaarya/blob/main/VID_20260311_010801_1.gif?raw=true" width="400" alt="Luffy typing">
+</p>
+
+<!-- Big bold name with single thick line -->
+<p align="center" style="margin-top:10px; margin-bottom:10px;">
+  <span style="font-size:60px; font-weight:bold;">Hi, I'm Boya Devaarya</span>
+</p>
+
+<hr style="height:3px; background-color:#333; border:none; width:50%; margin:auto;">
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=C%20Learner;Python%20Learner&center=true&width=500&height=50">
+</p>
+
 <hr style="height:3px; background-color:#333; border:none; width:50%; margin:auto;">>
 
 <hr style="height:3px; background-color:#333; border:none; width:50%; margin:auto;">
