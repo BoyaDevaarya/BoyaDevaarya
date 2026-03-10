@@ -13,7 +13,6 @@
 
 
 <hr style="height:3px; background-color:#333; border:none; width:50%; margin:auto;">
-
 <h1 align="center">Hi, I'm Boya Devaarya</h1>
 <!-- Typing animation -->
 <p align="center">
