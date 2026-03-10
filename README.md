@@ -6,6 +6,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD4D0z7kqWb1Vb6/giphy.gif" width="600" alt="Luffy coding"/>
+</p>
+
 🎓 Engineering Student
 💻 Learning programming step by step
 
